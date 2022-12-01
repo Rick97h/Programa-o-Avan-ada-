@@ -1,4 +1,4 @@
-7) Ler a idade e o total de dias que o indíviduo está vivo.
+// Ler a idade e o total de dias que o indíviduo está vivo.
 
 int main()
 {
@@ -13,6 +13,8 @@ int main()
         printf("Idade não pode ser negativa!");
         scanf("%d", &idade);
     }
+   
+    //saida: 
     
     printf("Você tem %d anos, e está vivo por %d dias!", idade, calculo);
    
