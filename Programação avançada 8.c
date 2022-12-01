@@ -1,4 +1,4 @@
-4) Ler 6 vetores inteiros e imprimir os valores lidos de forma inversa.
+// Ler 6 vetores inteiros e imprimir os valores lidos de forma inversa.
 
 int main() {
    int v[TAMANHO];
