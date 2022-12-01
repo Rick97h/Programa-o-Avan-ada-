@@ -1,4 +1,4 @@
-8) Fazer uma contagem regressiva até 0.
+// Fazer uma contagem regressiva até 0.
 
 int main()
 {
@@ -10,6 +10,7 @@ int main()
         printf("\n %d", i);
     }
    
+    //saida
     for(i=num; i<=0; i++){
         printf("\n %d", i);
     }
