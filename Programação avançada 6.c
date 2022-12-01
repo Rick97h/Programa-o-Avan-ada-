@@ -1,4 +1,4 @@
-2) Saber o salário total de um funcionário:
+//Saber o salário total de um funcionário:
 
 int main()
 {
