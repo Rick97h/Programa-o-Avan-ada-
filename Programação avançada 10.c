@@ -1,4 +1,4 @@
-) Imprimir um triângulo de n asteriscos.
+//Imprimir um triângulo de n asteriscos.
 
 void imprimeTriangulo (int n) {
     for (int l=1; l<=n; l++) {
