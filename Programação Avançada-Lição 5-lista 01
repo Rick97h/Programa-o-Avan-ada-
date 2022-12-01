@@ -1,0 +1,33 @@
+#include <stdio.h>
+
+int main()
+{
+    //objetivo: descobrir o salário final de um vendedor.
+    //entrada de dados:
+    char nome[100];
+    float salariofixo,vendas,comissão,salariofinal;
+    salariofinal=comissão+salariofixo;
+    
+    //processamento:
+    printf("Digite o valor do salário e das vendas do vendedor:\n");
+    printf("\n");
+    scanf("%f",&salariofixo);
+    scanf("%f",&vendas);
+    
+    if(vendas>1.500)
+    {
+        comissão=(5/100)*vendas;
+    }
+    senão
+    {
+      comissão=(3/100)*vendas;
+    }
+    
+    //disse:
+    printf("\n");
+    printf("O salário final é: R$");
+    printf("%f", salario final);
+    retorna 0;
+}
+
+//incompleto,falta ajustes.
