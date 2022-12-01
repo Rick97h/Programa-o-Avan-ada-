@@ -1,4 +1,4 @@
-10) Imprimir um quadrado de esteriscos.
+//Imprimir um quadrado de esteriscos.
 
 void imprimeRetangulo (int n) 
 {
