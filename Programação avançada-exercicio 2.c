@@ -1,6 +1,4 @@
-/******************************************************************************
-Nome:Rafael Lima Morial ADS
-*******************************************************************************/
+
 #include <stdio.h>
 
 1) Informar em qual das três posições colocadas está o maior número.
