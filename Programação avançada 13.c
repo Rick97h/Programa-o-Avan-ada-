@@ -1,4 +1,4 @@
-9) Gerar números primos a partir de um limite superior estabelecido.
+//Gerar números primos a partir de um limite superior estabelecido.
 
 int main() {
     int n, nMax, i, j, totalDivisores;
