@@ -34,12 +34,3 @@ int main()
   }
   //código incompleto,falta ajustes
 }
-Rodapé
-© 2022 GitHub, Inc.
-Navegação no rodapé
-Termos
-Privacidade
-Segurança
-Status
-Documentos
-Entre em contato com o GitHub
