@@ -1,10 +1,10 @@
-/******************************************************************************
-Nome:Rafael Lima Morial
-*******************************************************************************/
+
 #include <stdio.h>
 
+//variaveis:
 int idade = 0, dias = 0;
 
+//entrada:
 void diasIdade(int idade);
 
 int main()
@@ -17,7 +17,7 @@ int main()
     }
     diasIdade(idade);
 }
-
+//saida:
 void diasIdade(int idade)
 {
     dias = idade * 365;
