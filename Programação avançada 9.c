@@ -1,4 +1,4 @@
-5) Imprimir um retângulo de triângulos.
+//Imprimir um retângulo de triângulos.
 
 void imprimeRetangulo (int lin, int col) {
     for (int l=1; l<=lin; l++){
