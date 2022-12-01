@@ -1,12 +1,12 @@
-/******************************************************************************
-Nome:Rafael Lima Morial ADS
-*******************************************************************************/
+
 #include <stdio.h>
 
 int main()
 {
+    //entrada de dados:
     int numero = 0;
 
+    //processamento:
     printf("Digite um numero: ");
     scanf("%d", &numero);
 
@@ -27,6 +27,7 @@ int main()
     } 
     else
     {
+       //saida:
         for (int i = numero; i <= 0; i++)
         {
             printf("contagem %d \n", i);
